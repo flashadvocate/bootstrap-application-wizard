@@ -1,6 +1,8 @@
 Bootstrap Application Wizard
 ============================
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/flashadvocate/bootstrap-application-wizard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Screenshot](http://i.imgur.com/e9B2Z.png)
 
 General
